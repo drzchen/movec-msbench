@@ -3,7 +3,7 @@
 int main()
 {
   int a[100];
-  int ret;
+  int ret = 0;
   int b[100];
 
   int *p = &ret;
